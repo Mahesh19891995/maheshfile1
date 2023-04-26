@@ -11,7 +11,7 @@ double second = reader.nextDouble();
 System.out.print("Enter an operator (+, -, *, /): ");
 char operator = reader.next().charAt(0);
 double result;
-this is the comment 
+
 switch(operator)
 {
 case '+':
